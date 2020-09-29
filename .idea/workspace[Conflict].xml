@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12e32c4e-5f0b-4d3a-a724-201f702fdb3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gOFHlOig7jioPu3FzSwR4T7uWd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.fibonacci">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coffee_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coffee_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.car" />
+      <item itemvalue="Python.coffee_machine" />
+      <item itemvalue="Python.fibonacci" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.coffee_machine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e32c4e-5f0b-4d3a-a724-201f702fdb3b" name="Default Changelist" comment="" />
+      <created>1597977646081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597977646081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="23" key="#Inspections" timestamp="1598727113992">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="457" y="23" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1598727113992" />
+    <state x="188" y="101" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599505101354">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="188" y="101" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1599505101354" />
+    <state x="511" y="75" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598578518412">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="511" y="75" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.821@0.23.1440.821" timestamp="1598578518412" />
+    <state x="369" y="148" key="#xdebugger.evaluate" timestamp="1598035288591">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="369" y="148" key="#xdebugger.evaluate/0.23.1440.821@0.23.1440.821" timestamp="1598035288591" />
+    <state x="337" y="265" key="FileChooserDialogImpl" timestamp="1598308345778">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="337" y="265" key="FileChooserDialogImpl/0.23.1440.821@0.23.1440.821" timestamp="1598308345778" />
+    <state width="1102" height="36" key="GridCell.Tab.0.bottom" timestamp="1599544082118">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1599544082118" />
+    <state width="1102" height="36" key="GridCell.Tab.0.center" timestamp="1599544082117">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1599544082117" />
+    <state width="1102" height="36" key="GridCell.Tab.0.left" timestamp="1599544082116">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1599544082116" />
+    <state width="1102" height="36" key="GridCell.Tab.0.right" timestamp="1599544082117">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1599544082117" />
+    <state width="1102" height="36" key="GridCell.Tab.1.bottom" timestamp="1599544082121">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1599544082121" />
+    <state width="1102" height="36" key="GridCell.Tab.1.center" timestamp="1599544082120">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1599544082120" />
+    <state width="1102" height="36" key="GridCell.Tab.1.left" timestamp="1599544082120">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1599544082120" />
+    <state width="1102" height="36" key="GridCell.Tab.1.right" timestamp="1599544082121">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1102" height="36" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1599544082121" />
+    <state x="241" y="23" key="SettingsEditor" timestamp="1598734117488">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="241" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1598734117488" />
+    <state x="362" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599329740465">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="362" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.821@0.23.1440.821" timestamp="1599329740465" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/string_startswith.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/string_startswith.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
